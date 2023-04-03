@@ -1,4 +1,4 @@
-# Flow-Charge
+# Flow Charge
 
 The Fold Change Calculator for Flow Cytometry is an interactive web application that allows researchers and scientists to calculate the Fold Change in protein expression levels based on flow cytometry data. Fold Change is a widely used measure in flow cytometry and biological research to represent the relative change in protein expression between experimental and control samples.
 
